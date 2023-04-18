@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nannan Li / Site Title"
+title                    : "Nannan Li / Dr."
 title_separator          : "-"
 name                     : &name "Nannan"
-description              : &description "personal description"
-url                      : https://nannanli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Research scientist at Test University"
+url                      : https://linannan719.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
