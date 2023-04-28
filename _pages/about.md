@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I’m Nannan, now a postdoctoral researcher in the Department of Geological Oceanography ([DGO](https://dgo.xmu.edu.cn))  of [Xiamen Universityan](https://www.xmu.edu.cn). I’m a paleoclimatologists employ a wide variety of techniques to deduce ancient climates during the past. Similar to the way archeologists study fossils and other physical clues to gain insight into the prehistoric past, my research focuses on geological evidence to understand what Earth’s past climate was like and why. 
+Hi! I’m Nannan, now a postdoctoral researcher in the Department of Geological Oceanography ([DGO](https://dgo.xmu.edu.cn))  of [Xiamen University](https://www.xmu.edu.cn). I’m a paleoclimatologists employ a wide variety of techniques to deduce ancient climates during the past. Similar to the way archeologists study fossils and other physical clues to gain insight into the prehistoric past, my research focuses on geological evidence to understand what Earth’s past climate was like and why. 
 
 
 Research Interest
