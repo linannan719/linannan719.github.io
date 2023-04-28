@@ -6,7 +6,7 @@ excerpt: #'This paper is about the number 2. The number 3 is left for future wor
 date: 2023-02-09
 venue: 'The Holocene'
 paperurl: 'http://linannan719.github.io/files/Paper_2023a.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: #'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 
 
 ---
