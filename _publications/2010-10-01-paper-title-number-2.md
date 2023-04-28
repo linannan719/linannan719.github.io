@@ -2,7 +2,7 @@
 title: "A humification-based method toward refining Holocene radiocarbon chronologies: Wetland records from southeastern China"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-#excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: #'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023-02-09
 venue: 'The Holocene'
 paperurl: 'http://linannan719.github.io/files/Paper_2023a.pdf'
