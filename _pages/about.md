@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I’m Nannan, now a postdoctoral researcher in the Department of Geological Oceanography of Xiamen Universityan. I’m a paleoclimatologists employ a wide variety of techniques to deduce ancient climates during the past.  
+Hi! I’m Nannan, now a postdoctoral researcher in the Department of Geological Oceanography [(DGO)](https://dgo.xmu.edu.cn))  of Xiamen Universityan. I’m a paleoclimatologists employ a wide variety of techniques to deduce ancient climates during the past.  
 
 Assistant Professor at the University of California, San Diego in the Department of Communication and the Halıcıoğlu Data Science Institute. I’m an interpretive social scientist by training with a background in the humanities, but I have just enough expertise in computer science and data science to make trouble. My research, teaching, and broader service are all grounded in the idea that science and technology are inherently social activities, which are directed, operated, and maintained in certain ways (and not in other ways), by people in and outside of institutions.
 
