@@ -1,7 +1,7 @@
 ---
 title: "A re-evaluation of Holocene relative sea-level change along the Fujian coast, southeastern China"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Paper_2023b
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-05-04
 venue: 'Palaeogeography, Palaeoclimatology, Palaeoecology'
