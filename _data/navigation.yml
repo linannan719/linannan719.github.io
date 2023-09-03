@@ -3,7 +3,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-- title: "Research Funding"
+  - title: "Research Funding"
     url: /cv/    
 
   - title: "Talks"
