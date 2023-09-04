@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
- #- title: "Research Funding"
-   #url: /portfolio/    
+ - title: "Research Funding"
+   url: /portfolio/    
 
   - title: "Talks"
     url: /talks/    
@@ -12,11 +12,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
           
-  #- title: "Mentoring"
-    #url: /year-archive/
+  - title: "Mentoring"
+    url: /year-archive/
     
   - title: "CV"
     url: /cv/
         
- #- title: "Portfolio"
-    #url: /portfolio/
+ - title: "Portfolio"
+    url: /portfolio/
