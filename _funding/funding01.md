@@ -2,7 +2,7 @@
 title: "Teaching experience 2023"
 collection: teaching
 type: "Bachelor course"
-permalink: /funding/funding01.md
+permalink: /funding/funding01
 venue: "University 1, Department"
 date: 2023-01-01
 location: "Xiamen, Country"
