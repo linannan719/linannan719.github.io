@@ -3,13 +3,13 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Funding"
+  - title: "Research Funding"
     url: /year-archive/   
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Talks"
     url: /portfolio/
         
   - title: "Blog Posts"
@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
+  - title: "Contact Me"
     url: /markdown/
