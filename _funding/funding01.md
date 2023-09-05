@@ -2,10 +2,10 @@
 title: "Teaching experience 2023"
 collection: teaching
 type: "Bachelor course"
-permalink: /funding/2014-spring-teaching-1
+permalink: /funding/funding01.md
 venue: "University 1, Department"
 date: 2023-01-01
-location: "City, Country"
+location: "Xiamen, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
