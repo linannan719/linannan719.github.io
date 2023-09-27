@@ -1,10 +1,11 @@
 ---
 title: "Phytolith Assemblages as a Promising Tool for Quantitative Canopy Coverage Reconstruction in Subtropical Forests, China"
 collection: publications
-permalink: /publication/Paper_2022b
-excerpt: #'This paper is about the number 3. The number 4 is left for future work.'
+permalink: #/publication/Paper_2022b
+excerpt: ([ https://doi.org/10.3389/fpls.2022.912627]( https://doi.org/10.3389/fpls.2022.912627))
 date: 2022-06-20
 venue: 'Frontiers in Plant Science'
 paperurl: 'http://linannan719.github.io/files/Paper_2022b.pdf'
 citation: #'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
+**Abstract**&emsp;This study investigates the reliability of phytolith assemblage analysis for characterizing subtropical vegetation and explores the potential for using these modern phytolith–vegetation relationships for paleoenvironmental interpretation in southeastern China. The samples were collected from five common subtropical vegetation communities in the Daiyun Mountains, southeastern China, with the above-ground vegetation recorded at each plot. Constrained ordination analysis was used to determine the most important factor governing the variations in phytolith assemblages that could be quantitatively reconstructed with weighted averaging partial least squares regression (WAPLS). The relationship between modern phytolith assemblages and the parent vegetation, as well as production, dispersal, and taphonomic processes, was discussed. Results demonstrated that the main subtropical biomes in southeastern China could be well distinguished by soil phytolith assemblages. In particular, the overall amount of tree coverage was well represented by topsoil phytolith assemblages. Grass silica short cell phytoliths (GSSCP) tended to occur in higher proportions in open habitats (shrub-meadow) at higher elevations, whereas non-grass phytolith morphotypes attained higher frequencies under mixed and broadleaf forests at lower elevations. Human-induced deforestation might increase the frequency of GSSCP within the bulk phytolith assemblage. Our results constitute the primary phytolith reference data for the subtropical zone in southeastern Asia where vegetation change during the Holocene period, particularly forest shifts, anthropogenic deforestation, and early agriculture are poorly documented.
