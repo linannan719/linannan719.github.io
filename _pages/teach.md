@@ -1,13 +1,33 @@
 ---
 layout: archive
 title: "Teaching and Mentoring"
-permalink: /teach-mentor/
+permalink: /teach/
 author_profile: true
 
 ---
 
 {% include base_path %}
 {% include toc %}
+
+**Guest Lecture
+2022.11 Reconstructing Earth’s Climate History——Xiamen University
+(Lecture: Introduction of Phytolith Analysis)
+2016.11 An Introduction to Geology: Practical Classes——Northeast Normal University
+(Lectures: Classification, Identification, and Description of Igneous Rocks and Metamorphic Rocks)
+2016.05 Reconstructing Quaternary Environments: Practical Classes——Northeast Normal University
+(Lectures: An Introduction to Grain Size Analysis and Its Applications in Quaternary Research)
+Mentoring
+2021-2023 National Innovation Training Program for Undergraduate Students
+Yang, S. The reconstruction of Holocene Sea-level change and coastal lines in the Bohai Sea
+2021-2022 Innovation Training Program for Bachelor Students (Xiamen University)
+Zeng, Y., Tan, X. and Huang Y. The potential of using phytolith assemblages for quantitative canopy coverage reconstruction in subtropics: modern calibrations in subtropical forests in China
+2021-2022 Innovation Training Program for Bachelor Students (Xiamen University)
+Zhu, X., Shu, Y. and You, Y. Phytoliths in modern plants from the National Natural Reserve of the Wuyi Mountains and
+their implications for paleovegetation reconstruction
+2020-2021 Innovation Training Program for Bachelor Students (Xiamen University)
+Lin, W., Zhu, Z., Yang, H. and Lin, J. Paleoclimate and paleovegetation reconstructions for the subtropics in China: A
+multiproxy-based wetland record from the Daiyun Mountains
+
 
 Education
 ======
