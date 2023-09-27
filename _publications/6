@@ -1,10 +1,12 @@
 ---
 title: "Linking Holocene East Asian monsoon variability to solar forcing and ENSO activity: Multi-proxy evidence from a peatland in Northeastern China"
 collection: publications
-permalink: /publication/Paper_2021b
-excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
+permalink: #/publication/Paper_2021b
+excerpt: ([https://doi.org/10.1177/0959683621994662](https://doi.org/10.1177/0959683621994662))
 date: 2021-02-18
 venue: 'The Holocene'
 paperurl: 'http://linannan719.github.io/files/Paper_2021b.pdf'
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+
+**Abstract**&emsp;High-resolution proxy-based paleoenvironmental records derived from peatlands provide important insights into climate changes over centennial to millennial timescales. In this study, we present a composite climatic index (CCI) for the Hani peatland from northeastern China, based on an innovative combination of pollen-spore, phytolith, and grain size data. We use the CCI to reconstruct variations of the East Asian summer monsoon (EASM) intensity during the Holocene. This is accomplished with complete ensemble empirical mode decomposition (CEEMD), REDFIT, and cross-wavelet coherency analysis to reveal the periodicities (frequencies) of the multi-proxy derived CCI sequences and to assess potential external forcing of the EASM. The results showed that periodicities of ca. 300–350, 475, 600, 1075, and 1875 years were present in the Hani CCI sequence. Those periodicities are consistent with previously published periodicities in East Asia, indicating they are a product of external climate controls over an extensive region, rather than random variations caused by peatland-specific factors. Cross-wavelet coherency analysis between the decomposed CCI components and past solar activity reconstructions suggests that variations of solar irradiation are most likely responsible for the cyclic characteristics at 500-year frequency. We propose a conceptual model to interpret how the sun regulates the monsoon climate via coupling with oceanic and atmospheric circulations. It seems that slight solar irradiation changes can be amplified by coupling with ENSO events, which result in a significant impact on the regional climate in the East Asian monsoon area.
