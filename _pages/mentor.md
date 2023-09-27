@@ -27,7 +27,7 @@ redirect_from:
  * 2021-2022, **Innovation Training Program for Bachelor Students (Xiamen University)**<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<ins>**Zeng, Y., Tan, X. and Huang Y**</ins>. _The potential of using phytolith assemblages for quantitative canopy coverage reconstruction in subtropics: modern calibrations in subtropical forests in China_
 
- * 2021-2022, **Innovation Training Program for Bachelor Students (Xiamen University)<br />
+ * 2021-2022, **Innovation Training Program for Bachelor Students (Xiamen University)**<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<ins>**Zhu, X., Shu, Y. and You, Y**</ins>. _Phytoliths in modern plants from the National Natural Reserve of the Wuyi Mountains and
 their implications for paleovegetation reconstruction_
 
