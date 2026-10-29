@@ -1,6 +1,6 @@
 ---
 title: "Join Us（加入我们）"
-permalink: /join-us/
+permalink: /join_us/
 ---
 
 
