@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 permalink: /pdf_cv/
 ---
 
-## English Version
+## English Version (updated October 2026)
 
 <iframe
   src="https://pdfembed.com/embed/?url={{ '/files/Nannan_Li_CV_en.pdf' | absolute_url | url_encode }}&download=0&toolbar=1&theme=light"
@@ -15,7 +15,7 @@ permalink: /pdf_cv/
   title="Nannan Li - English CV">
 </iframe>
 
-## 中文简历
+## 中文简历  （更新于2026年10月）
 
 <iframe
   src="https://pdfembed.com/embed/?url={{ '/files/Nannan_Li_CV_cn.pdf' | absolute_url | url_encode }}&download=0&toolbar=1&theme=light"
