@@ -1,9 +1,7 @@
 ---
 title: "Curriculum Vitae"
-permalink: /cv/
+permalink: /pdf/cv/
 ---
-
-# Curriculum Vitae
 
 ## English Version
 
