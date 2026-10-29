@@ -10,4 +10,4 @@ permalink: /join-us/
 
 期待与你交流，共同探索过去及未来全球变化！
 
-欢迎加入福师大植硅体研究课题组（负责人：[左昕昕教授](https://geo.fjnu.edu.cn/80/0b/c5053a163851/page.htm)！
+欢迎加入福师大植硅体研究课题组！（负责人：[左昕昕教授](https://geo.fjnu.edu.cn/80/0b/c5053a163851/page.htm))
