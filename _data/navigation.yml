@@ -16,7 +16,7 @@ main:
     url: /year-archive/ 
     
   - title: "CV"
-    url: /cv/
+    url: /pdf_cv/
     
   - title: "Contact Me"
-    url: /pdf_cv/
+    url: /cv/
