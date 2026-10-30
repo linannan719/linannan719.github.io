@@ -3,29 +3,81 @@ title: "Gallery"
 permalink: /gallery/
 ---
 
-## Fieldwork
+# Research Gallery
 
-{% assign gallery = site.static_files | where_exp: "file", "file.path contains '/images/gallery/'" %}
+## Fieldwork（野外考察）
 
-<div class="gallery">
-  {% for image in gallery %}
-    {% if image.extname == ".jpg" or image.extname == ".jpeg" or image.extname == ".png" %}
-      <a href="{{ image.path | relative_url }}" target="_blank">
-        <img src="{{ image.path | relative_url }}" alt="Research photograph">
-      </a>
-    {% endif %}
-  {% endfor %}
+{% assign photos = site.static_files | where_exp: "file", "file.path contains '/images/gallery/field/'" | sort: "path" %}
+
+<div class="gallery-grid">
+{% for photo in photos %}
+  {% assign ext = photo.extname | downcase %}
+  {% if ext == ".jpg" or ext == ".jpeg" or ext == ".png" or ext == ".webp" %}
+    <a href="{{ photo.path | relative_url }}" target="_blank">
+      <img src="{{ photo.path | relative_url }}" alt="Fieldwork photograph">
+    </a>
+  {% endif %}
+{% endfor %}
 </div>
 
+
+## Laboratory & Research（实验与科研）
+
+{% assign photos = site.static_files | where_exp: "file", "file.path contains '/images/gallery/lab/'" | sort: "path" %}
+
+<div class="gallery-grid">
+{% for photo in photos %}
+  {% assign ext = photo.extname | downcase %}
+  {% if ext == ".jpg" or ext == ".jpeg" or ext == ".png" or ext == ".webp" %}
+    <a href="{{ photo.path | relative_url }}" target="_blank">
+      <img src="{{ photo.path | relative_url }}" alt="Laboratory photograph">
+    </a>
+  {% endif %}
+{% endfor %}
+</div>
+
+
+## Academic Activities（学术活动）
+
+{% assign photos = site.static_files | where_exp: "file", "file.path contains '/images/gallery/academic/'" | sort: "path" %}
+
+<div class="gallery-grid">
+{% for photo in photos %}
+  {% assign ext = photo.extname | downcase %}
+  {% if ext == ".jpg" or ext == ".jpeg" or ext == ".png" or ext == ".webp" %}
+    <a href="{{ photo.path | relative_url }}" target="_blank">
+      <img src="{{ photo.path | relative_url }}" alt="Academic activity photograph">
+    </a>
+  {% endif %}
+{% endfor %}
+</div>
+
+
+## Group Activities（团队活动）
+
+{% assign photos = site.static_files | where_exp: "file", "file.path contains '/images/gallery/group/'" | sort: "path" %}
+
+<div class="gallery-grid">
+{% for photo in photos %}
+  {% assign ext = photo.extname | downcase %}
+  {% if ext == ".jpg" or ext == ".jpeg" or ext == ".png" or ext == ".webp" %}
+    <a href="{{ photo.path | relative_url }}" target="_blank">
+      <img src="{{ photo.path | relative_url }}" alt="Group activity photograph">
+    </a>
+  {% endif %}
+{% endfor %}
+</div>
+
+
 <style>
-.gallery {
+.gallery-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 15px;
-  margin-top: 20px;
+  margin: 20px 0 35px 0;
 }
 
-.gallery img {
+.gallery-grid img {
   width: 100%;
   height: 220px;
   object-fit: cover;
@@ -33,13 +85,13 @@ permalink: /gallery/
   transition: transform 0.2s ease;
 }
 
-.gallery img:hover {
+.gallery-grid img:hover {
   transform: scale(1.03);
 }
 
 @media (max-width: 768px) {
-  .gallery {
-    grid-template-columns: repeat(2, 1fr);
+  .gallery-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 </style>
