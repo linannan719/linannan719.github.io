@@ -13,7 +13,7 @@ main:
     url: /talks/
         
   - title: "Gallery"
-    url: /year-archive/ 
+    url: /gallery/ 
     
   - title: "CV"
     url: /pdf_cv/
