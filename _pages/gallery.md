@@ -7,7 +7,7 @@ permalink: /gallery/
 
 ## Fieldwork（野外考察）
 
-{% assign photos = site.static_files | where_exp: "file", "file.path contains '/images/gallery/field/'" | sort: "path" %}
+{% assign photos = site.static_files | where_exp: "file", "file.path contains 'gallery/field/'" | sort: "path" %}
 
 <div class="gallery-grid">
 {% for photo in photos %}
@@ -23,7 +23,7 @@ permalink: /gallery/
 
 ## Laboratory & Research（实验与科研）
 
-{% assign photos = site.static_files | where_exp: "file", "file.path contains '/images/gallery/lab/'" | sort: "path" %}
+{% assign photos = site.static_files | where_exp: "file", "file.path contains 'gallery/lab/'" | sort: "path" %}
 
 <div class="gallery-grid">
 {% for photo in photos %}
@@ -39,7 +39,7 @@ permalink: /gallery/
 
 ## Academic Activities（学术活动）
 
-{% assign photos = site.static_files | where_exp: "file", "file.path contains '/images/gallery/academic/'" | sort: "path" %}
+{% assign photos = site.static_files | where_exp: "file", "file.path contains 'gallery/academic/'" | sort: "path" %}
 
 <div class="gallery-grid">
 {% for photo in photos %}
@@ -55,7 +55,7 @@ permalink: /gallery/
 
 ## Group Activities（团队活动）
 
-{% assign photos = site.static_files | where_exp: "file", "file.path contains '/images/gallery/group/'" | sort: "path" %}
+{% assign photos = site.static_files | where_exp: "file", "file.path contains 'gallery/group/'" | sort: "path" %}
 
 <div class="gallery-grid">
 {% for photo in photos %}
